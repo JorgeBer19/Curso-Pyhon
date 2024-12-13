@@ -27,7 +27,7 @@ def resta(var1,var2):
     resultado = var1 - var2
     return resultado # Esta devuelve algo 
 var3 = resta(4,2)
-print(var)
+print(var3)
 
 def encriptar(texto):   
     # hacer encriptación 
