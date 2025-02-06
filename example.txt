@@ -1,0 +1,2 @@
+Hola,esto es un archivo de texto. 
+Python es horrible para manejar archivos. 
